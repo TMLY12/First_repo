@@ -10,4 +10,4 @@ total_cost = num_croissants * price_per_croissant + \
 total_dollars = int(total_cost)
 total_cents = int(total_cost * 100)
 print(f"Загальна вартість у повних доларах: {total_dollars} доларів")
-print(f"Загальна вартість у центах: {total_cents} центів")15
+print(f"Загальна вартість у центах: {total_cents} центів")
